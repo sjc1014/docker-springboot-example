@@ -1,4 +1,4 @@
-package com.javatechie.aws.ecs;
+package com.autom8nix.aws.ecs;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
